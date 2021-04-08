@@ -1,4 +1,4 @@
-html {font-family: sans-serif; text-align: center}
+html {font-family: sans-serif; text-align: center; background-color: #253072;}
 body {display: inline-block; text-align: left}
 label, legend {font-weight: bold}
 *:required, .obligatorio {border: thin solid blue}
